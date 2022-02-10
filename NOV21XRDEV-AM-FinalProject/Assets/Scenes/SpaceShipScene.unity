@@ -315,6 +315,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -159058741321942120, guid: 8b0db96ff198f8f4aad95a8171db81ed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8b0db96ff198f8f4aad95a8171db81ed, type: 3}
       propertyPath: m_Name
       value: ShipD_PivotPoint
